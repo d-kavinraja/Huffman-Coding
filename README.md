@@ -28,7 +28,7 @@ Print the characters and its huffmancode.
 
 ``` Python
 # Get the input String
-string = 'from robomaster import robot'
+string = '212222240047 Kavinraja D'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
